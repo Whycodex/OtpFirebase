@@ -18,13 +18,21 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.whycodex.OtpFirebase"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth"],
+    "extra": {
+      "eas": {
+        "projectId": "703c9f78-5fca-4cfd-a17a-c66a4b209543"
+      }
     }
   }
 }

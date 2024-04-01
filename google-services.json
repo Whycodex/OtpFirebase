@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471593713396",
+    "project_id": "otpfirebase-e0394",
+    "storage_bucket": "otpfirebase-e0394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471593713396:android:eaf19270b37f8a806368a1",
+        "android_client_info": {
+          "package_name": "com.whycodex.OtpFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tHU8Mpm5Ishw5sj3ylk-lQHvxPrb2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
